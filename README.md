@@ -1,6 +1,6 @@
-# ORION POS Android Point of Sale
-
 <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/logo.jpg" alt="App Logo" width="200">
+
+# ORION POS Android Point of Sale
 
 <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/banner.jpg" alt="App Banner" width="600">
 
