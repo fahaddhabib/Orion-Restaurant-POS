@@ -1,8 +1,8 @@
 # ORION POS Android Point of Sale
 
-![App Logo](https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/logo.jpg)
+<img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/logo.jpg" alt="App Logo" width="200">
 
-![App Banner](https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/banner.jpg)
+<img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/banner.jpg" alt="App Banner" width="600">
 
 ## Description
 
