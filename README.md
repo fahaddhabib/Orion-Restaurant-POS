@@ -1,8 +1,8 @@
 # ORION POS Android Point of Sale
 
-![App Logo](logo.png)
+![App Logo](https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/logo.jpg)
 
-![App Banner](banner.png)
+![App Banner](https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/banner.jpg)
 
 ## Description
 
@@ -35,21 +35,12 @@ ORION is a customized POS software developed to solve all your business problems
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="1.jpg" alt="Screenshot 1" width="18%">
-    <img src="2.jpg" alt="Screenshot 2" width="18%">
-    <img src="3.jpg" alt="Screenshot 3" width="18%">
-    <img src="4.jpg" alt="Screenshot 4" width="18%">
-    <img src="5.jpg" alt="Screenshot 5" width="18%">
+    <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/1.jpg" alt="Screenshot 1" width="18%">
+    <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/2.jpg" alt="Screenshot 1" width="18%">
+    <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/3.jpg" alt="Screenshot 1" width="18%">
+    <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/4.jpg" alt="Screenshot 1" width="18%">
+    <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/5.jpg" alt="Screenshot 1" width="18%">
 </div>
-
-## Installation Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
-    Open the project in Android Studio.
-    Build and run the project on your Android device or emulator.
 
 Usage Instructions
 
@@ -76,5 +67,5 @@ Contact Information
 
 For any questions, issues, or suggestions, please contact:
 
-    Email: support@example.com
+    Email: psychocreativesllc@gmail.com
     GitHub Issues: GitHub Issues
