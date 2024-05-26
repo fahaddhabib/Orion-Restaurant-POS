@@ -42,6 +42,26 @@ ORION is a customized POS software developed to solve all your business problems
     <img src="https://github.com/fahaddhabib/Orion-Restaurant-POS/blob/main/assets/5.jpg" alt="Screenshot 1" width="18%">
 </div>
 
+## Technologies Used
+
+- Android SDK
+- MVVM Architecture
+- Room Persistence Library
+- Firebase (for backend services such as authentication, real-time database, and cloud storage)
+- Google Play Services
+- Glide (for efficient loading and caching of images and GIFs)
+- Material Design Components (for a visually appealing and intuitive user interface)
+- Kotlin Programming Language (for Android app development)
+- Coroutines (for asynchronous programming and managing background tasks)
+- LiveData (for observing changes in data and updating UI)
+- ViewModel (for managing UI-related data in a lifecycle-conscious way)
+- Lifecycle Components (for managing activity and fragment lifecycles)
+- Dagger Hilt (for dependency injection)
+- Navigation Component (for implementing navigation in the app)
+- WorkManager (for deferrable background tasks)
+- Firebase Analytics (for tracking user interactions and app usage metrics)
+- Crashlytics (for real-time crash reporting and error monitoring)
+  
 Usage Instructions
 
     Sell from your Android smartphone or tablet
